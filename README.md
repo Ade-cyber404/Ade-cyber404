@@ -10,3 +10,6 @@ Cybersecurity learner currently working through SOC Level 1 fundamentals and han
 - **Documentation:** Building personal reference notes and resource collections
 
 ---
+
+### Practice Platforms
+- **TryHackMe:** [Ade-cyber404 Profile](https://tryhackme.com/p/AdeCyber404)
